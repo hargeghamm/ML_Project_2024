@@ -176,6 +176,3 @@
 
 
 
-### **Contributions**
-
-#### Contributions to this project are welcome. If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please make sure to follow the contribution guidelines and maintain code quality.
